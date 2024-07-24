@@ -137,18 +137,6 @@ ex.--  Forward→increased target angle
 [Self balancing bot app.zip](https://github.com/sudhanshur555/SelfBalancingBot-2022-23-Project/files/11194098/Self.balancing.bot.app.zip)
 
 
-## Source Code
-
-
-[https://github.com/roboclub-mnnit/SelfBalancingBot-2022-23-Project](https://github.com/roboclub-mnnit/SelfBalancingBot-2022-23-Project)
-
-
-## Video link
-
-
-- https://youtu.be/lqwXdpySzbQ
-
-
 
 
 ## Real-life applications
@@ -278,5 +266,5 @@ Note-This issue will only be faced in Android 9+ devices
  - [Abhishek Kumar Singh](https://github.com/Abhishekkumarsingh8957)
 
 
- - [Vikas]()
+ - [Manas Pathak](https://github.com/Manas-Pathak)
 
